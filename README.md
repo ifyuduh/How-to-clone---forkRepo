@@ -31,7 +31,7 @@ Think of a repository as a big box where you keep all the stuff related to a pro
 In your terminal, type the command git clone then paste the URL you copied from the repository in step 3 and hit enter. 
 
 ![alt text](./images/screenshot-20240312-143913.png)
-Voila! You have successfully clone a repository. 
+Voila! You have successfully cloned a repository. 
 
 **## HOW TO FORK A REPOSITORY**
 
